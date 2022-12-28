@@ -1,0 +1,7 @@
+    .main-header{
+        background-image: url(pexels-yurii-hlei-1365795.jpg);
+        min-height: 700px;
+        background-size: cover;
+        background-position: bottom;
+        color: rgb(0, 0, 0);
+}
